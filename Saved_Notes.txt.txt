@@ -1,0 +1,5 @@
+Description:
+This project allows users to input a link to a video, and based on the content, it can answer any questions or queries the user has. Using LLM and LangChain, the application is designed to help associates at Bosch Global Software Technologies save time by summarizing videos on their internal platform, BoschTube. Instead of watching entire videos, associates can quickly get answers to their specific questions, making the process more efficient and time-saving.
+
+
+
